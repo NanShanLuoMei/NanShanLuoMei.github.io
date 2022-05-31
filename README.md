@@ -1,8 +1,8 @@
 ## 个人主页
 
-好看的个人主页，个人主页源码，博客主页模板.**🉑️随意使用，无限制。**
+好看的个人主页，个人主页源码，博客主页模板
 
-预览地址：[https://mrxur.github.io/home](https://mrxur.github.io/home)
+感谢[https://mrxur.github.io/home](https://mrxur.github.io/home)
 
 ## 集成插件
 
